@@ -243,4 +243,4 @@ This repository serves as the official landing page for Lucky Luke Go West. The 
 **Download the most recent version of Lucky Luke Go West today!**
 
 ---
-**Last updated:** 2026-09-27 19:55:05 UTC
+**Last updated:** 2026-09-27 22:42:00 UTC
